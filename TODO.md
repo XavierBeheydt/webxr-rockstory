@@ -1,5 +1,9 @@
 # 📝 TODO List
 
+## Fixing Repo Settings
+
+- [ ] webpack main app JavaScript name fixing
+
 ## Initial Commit
 
 - [x] README.md
